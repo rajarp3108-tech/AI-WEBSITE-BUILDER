@@ -1,0 +1,5 @@
+.env
+old-versions/
+*.zip
+.env
+node_modules/
